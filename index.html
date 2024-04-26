@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HP Cards Generate</title>
+</head>
+<body>
+    <div id="include"></div>
+
+    <!-- importa o svg_generate.js -->
+    <script src="svg_generate.js"></script>
+    <!-- inclui na id includ o conteudo da variavel svg -->
+    <script>
+        svg = svg.replace('feitico', "Aloromora");
+        svg = svg.replace('feitico-nome', "Feitiço Abridor de Fechaduras");
+        svg = svg.replace('feitico-efeito', "Abre portas ou janelas que estejam trancadas.");
+        svg = svg.replace('feitico-lampejo', "Branco.");
+        svg = svg.replace('feitico-movimento-desc', "Aceno.");
+        svg = svg.replace('feitico-movimento', "Aceno.");
+        svg = svg.replace('feitico-ano', "Primeiro.");
+        svg = svg.replace('feitico-classificacao', "Neutro.");
+        svg = svg.replace('feitico-tipo', "Efeito.");
+        
+        for (let i = 0; i < 1; i++) {
+            document.getElementById("include").innerHTML += svg;
+        }
+
+        
+    </script>
+</body>
+</html>

@@ -1,0 +1,22 @@
+<html>
+  <head>
+    <script>
+      window.onload = function() {
+        // Obter o objeto SVG
+        var svgObject = document.getElementById("svgObject");
+
+        // Obter o conteúdo da imagem SVG
+        var svgContent = svgObject.contentDocument;
+
+        // Selecione o elemento de texto que você deseja editar
+        var textToEdit = svgContent.getElementById("feitico-nome");
+
+        // Altere o conteúdo do texto
+        textToEdit.textContent = "Alohomora";
+      };
+    </script>
+  </head>
+  <body>
+    <object id="svgObject" data="svg_base.svg" type="image/svg+xml"></object>
+  </body>
+</html>

@@ -1,0 +1,275 @@
+1º Ano
+(Sem Fórmula)
+Nome: Feitiço Transfiguratório de Palitos em Agulhas
+Efeito: Transfigura palitos de fósforo em agulhas.
+Cor do lampejo: Não possui.
+Movimento: Sacolejo e um movimento brusco para baixo.
+Ano: Primeiro.
+Classificação: Transfiguração.
+Tipo: Efeito.
+
+ A
+Alarte 
+Nome: Feitiço Alarmador
+Efeito: A varinha do bruxo emite um som parecido com o de uma sirene. Pode ser revertido se pronunciado novamente.
+Cor do Lampejo: Não possui, apenas um flash.
+Movimento: Varinha em riste.
+Ano: Primeiro.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Alohomora
+Nome: Feitiço Abridor de Fechaduras
+Efeito: Abre portas ou janelas que estejam trancadas.
+Cor do Lampejo: Branco.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Aguamenti
+Nome: Feitiço Conjuratório Aquático
+Efeito: Conjura um fino jato de água.
+Cor do Lampejo: Não possui.
+Movimento: Giro horário.
+Ano: Primeiro.
+Classificação: Elemental.
+Tipo: Corpóreo.
+
+Aquila Papirus
+Nome: Feitiço transfiguratório de Pergaminho em Origami
+Efeito: Transfigura pergaminhos em um pássaro de origami.
+Cor do lampejo: Não possui.
+Movimento: Tocar duas vezes com a varinha no pergaminho.
+Ano: Primeiro.
+Classificação: Transfiguração.
+Tipo: Efeito.
+​
+Atordous Stomacus
+Nome: Azaração do Embrulho no Estômago
+Efeito: Provoca uma forte dor de barriga no alvo, similar a um forte soco.
+Cor do Lampejo: Marrom.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Azaração.
+Tipo: Efeito.
+
+C
+Cara-de-Vampiro
+Nome: Azaração Cara-de-Vampiro
+Efeito: Faz com que os caninos do alvo se alonguem e, por isso, sua face lembra a de um vampiro.
+Esta azaração é utilizada por bruxos que querem aterrorizar trouxas e muitas vezes faz com que estes acreditem que são vampiros. É uma variação do Densaugeo, só que controlada. Um Reduccio bem utilizado faz com que os dentes voltem ao tamanho normal. É melhor pedir para a enfermeira fazer.
+Cor do Lampejo: Roxo.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Azaração.
+Tipo: Efeito.
+
+D
+Desequilibrum
+Nome: Feitiço Bambeante de Ataque
+Efeito: Se for lançado contra as pernas do alvo, o faz perder o equilíbrio. Do contrário, não mostrará efeito.
+Cor do Lampejo: Dourado.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Depulso
+Nome: Feitiço Impactante de Pouco Efeito
+Efeito: Usado para empurrar objetos. O empurrão é fraco e sem controle no primeiro ano; conforme o bruxo vai adquirindo experiência, vai adquirindo também o controle do feitiço.
+Cor do Lampejo: Transparente.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Efeito.
+
+E
+﻿Eletricus
+Nome: Feitiço Conjuratório Cinético
+Efeito: Faz com que o alvo seja atingido por um choque, cuja intensidade vai aumentando baseando-se no nível do bruxo.
+Cor do Lampejo: Azulado.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Expelliarmus
+Nome: Feitiço de Desarme
+Efeito: Desarma o adversário; contudo, só possui esse efeito se o lampejo atingir a mão armada da pessoa. Do contrário, só impacta.
+Cor do Lampejo: Vermelho.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Efeito/Impactante.
+
+F
+Flipendo
+Nome: Feitiço Impactante de Pouco Efeito
+Efeito: Conjura um lampejo de forma esférica que causa pequenos impactos em objetos e pessoas.
+Cor do Lampejo: Laranja.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Impactante.
+
+Faísco
+Nome: Feitiço Conjuratório de Faíscas Iniciante
+Efeito: Conjura faíscas.
+Cor do Lampejo: Não possui. As faíscas são conjuradas da cor que o bruxo desejar.
+Ano: Primeiro.
+Movimento: Giro horário.
+Classificação: Neutro.
+Tipo: Efeito.
+
+H
+Horologium
+Nome: Feitiço Transfiguratório de Objetos em Relógio
+Efeito: Transfigura objetos em relógio. O tamanho dificulta a transfiguração, o que necessita de maior experiência por parte do bruxo progressivamente.
+Cor do lampejo: Roxo.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Transfiguração.
+Tipo: Efeito.
+
+K
+Kadabrus 
+Nome: Feitiço Impactante
+Efeito: Um relâmpago sai da varinha na direção do alvo, para impactá-lo para trás.
+Cor do Lampejo: Prateado.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Impactante.
+
+L
+Lacarnum Inflamari
+Nome: Feitiço Conjuratório de Fogo Azul
+Efeito: Conjura um pequeno fogo azul, que pode aumentar de tamanho de acordo com a experiência do bruxo.
+Cor do Lampejo: Não possui.
+Movimento: Giro horário.
+Ano: Primeiro.
+Classificação: Elementar.
+Tipo: Corpóreo.
+
+Lumos
+Nome: Feitiço Iluminador
+Efeito: Cria-se uma pequena luz na ponta da varinha.
+Cor do Lampejo: Não possui.
+Movimento: Aceno ou corte.
+Ano: Primeiro.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Lumos Solem
+Nome: Feitiço Iluminador Solar
+Efeito: Cria um feixe de luz solar extremamente luminoso focado da ponta da varinha por alguns segundos, pode até cegar alguém temporariamente se este estiver muito próximo.
+Cor do Lampejo: Não possui.
+Movimento: Aceno ou corte.
+Ano: Primeiro.
+Classificação: Neutro.
+Tipo: Efeito.
+
+N
+Nox
+Nome: Feitiço de Desiluminação
+Efeito: Cancela o efeito dos feitiços Lumus e Lumus Solem; ou seja, apaga a esfera de luz criada na ponta da varinha.
+Cor do Lampejo: Não possui.
+Ano: Primeiro.
+Movimento: Aceno ou corte.
+Classificação: Neutro.
+Tipo: Efeito.
+
+P
+Pluma Transfiguratio
+Nome: Feitiço Transfiguratório de Objetos em Pena para Escrever
+Efeito: Transfigura objetos em pena para escrever, porém sem tinta.
+Cor do lampejo: Esbranquiçado.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Transfiguração.
+Tipo: Efeito.
+
+Protego 
+Nome: Feitiço Repelente de Substâncias
+Efeito: Conjura uma barreira mágica capaz de repelir feitiços.
+O Protego será dividido em três níveis:
+1º ao 4º ano: A barreira produzida pelo feitiço protege apenas lampejos.
+5º ano: A barreira produzida pelo feitiço protege lampejos e objetos de pequeno e médio porte (até o tamanho de uma mesa média).
+6º ano para frente: A barreira produzida pelo feitiço protege lampejos, objetos de pequeno e médio porte e elementos (não, você não pode se proteger de um tsunami, são apenas jatos de pouca intensidade até o tanto de água, fogo ou algum elemento de um ‘’Aqua Eructo’’ e ‘’Incendio Erupto’’). 
+Cor do Lampejo: Não possui.
+Ano: Primeiro.
+Movimento: Corte.
+Classificação: Neutro.
+Tipo: Efeito.
+​
+R
+Reparo
+Nome: Feitiço Reparador de Objetos
+Efeito: Conserta coisas como objetos quebrados, roupas rasgadas, etc.
+(Varia a intensidade do efeito de acordo com o nível do bruxo, fazendo com que não repare somente um só objeto, como vários ou até mesmo algo de grande porte.)
+Cor do Lampejo: Transparente.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Efeito.
+
+Reparifarge
+Nome: Feitiço Reparador de Transfigurações
+Efeito: Desfaz qualquer transfiguração e dissipa criaturas criadas pelo mesmo método.
+(O tamanho de criaturas criadas por meios de transfigurações podem ser dissipadas de acordo com os anos, sendo elas as pequenas [1º e 2º anos], médias [3º ao 5º ano] e grandes [6º em diante].)
+Cor do Lampejo: Transparente.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Transfiguração.
+​
+S
+Scarlatum
+Nome: Feitiço Impactante
+Efeito: Assim como o feitiço "Kadabrus", impacta o alvo para trás.
+Cor do Lampejo: Escarlate.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Neutro.
+Tipo: Impactante.
+
+Simius Voluntas
+Nome: Azaração da Macacazaração
+Efeito: Quem é atingido fica com uma incessante vontade de comer bananas - mas não são poucas.
+É preciso comer pelo menos umas 6 ou 7 bananas para a pessoa se saciar. O Finite Incantatem finaliza este feitiço, mas nem sempre a pessoa percebe que o recebeu para poder anulá-lo e vai comer os cachos de bananas.
+Cor do Lampejo: Amarelo.
+Ano: Primeiro.
+Movimento: Aceno.
+Classificação: Azaração.
+Tipo: Efeito.
+
+T
+​ Transfigurare Papyrum
+Nome: Feitiço Transfiguratório de Objetos em Pergaminho
+Efeito: Transfigura objetos em pergaminhos em branco.
+Cor do lampejo: Azulado.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Transfiguração.
+Tipo: Efeito.
+
+V
+Verugs
+Nome: Azaração da Pele Suja
+Efeito: Faz nascerem verrugas/espinhas no rosto do adversário. Para cancelar seu efeito, é necessário usar o feitiço "Limpar". Finite não tem efeito.
+Cor do Lampejo: Amarelado.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Azaração.
+Tipo: Efeito.
+
+W
+Wingardium Leviosa
+Nome: Feitiço para Levitação de Objetos
+Efeito: Levita objetos em um ritmo lento. Pode ser mais bem administrado com base no nível do bruxo.
+Cor do Lampejo: Transparente.
+Movimento: Aceno.
+Ano: Primeiro.
+Classificação: Neutro.
+Tipo: Efeito.
